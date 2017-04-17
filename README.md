@@ -1,4 +1,4 @@
-# elasticsearch
+# spring boot, solr
 spring boot, solr
 
 Before create project download image solr
